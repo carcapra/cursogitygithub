@@ -8,3 +8,8 @@ body {
 h1 {
     font-size: 2px;
 }
+
+footer div {
+    font-size: 34px;
+    color: palevioletred;
+}
